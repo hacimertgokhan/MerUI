@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center" style="font-size: 75px;">MerUI</h1>
+<p align="center">Open source UI Framework package without any installition. MerUI component list;</p>
+<ul>
+    <li>AvatarCard</li>
+    <li>UnderlineText</li>
+    <li>
+        IconPackage
+        <ul>
+            <li>IconItem</li>        
+        </ul>    
+    </li>
+    <li>ModernText</li>
+    <li>
+        Card
+        <ul>
+            <li>CardHeader</li>        
+            <li>CardBody</li>        
+        </ul>    
+    </li>
+</ul>
 
-## Getting Started
+<h1 align="center" style="font-size: 35px;">Before Using</h1>
+<p align="center">The following packages must be installed for correct use of the MerUI design package.</p>
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+```
+    tailwindcss (depend)
+    react-icons (soft-depend) | (p)npm i(nstall) react-icons
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<h1 align="center" style="font-size: 35px;">Usage</h1>
+<p>You can copy the track you want to use directly from <strong>ui/</strong>. It is recommended not to copy intermediate packages. The main reason for this is that intermediate packages cannot be used directly for design.</p>
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+![a0.png](./images/ui/a0.png)
+![a0.png](./images/ui/a1.png)
+![a0.png](./images/ui/a2.png)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<h1 align="center" style="font-size: 15px;">Developed by Hacı Mert Gökhan</h1>
