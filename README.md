@@ -3,6 +3,8 @@
 <ul>
     <li>AvatarCard</li>
     <li>UnderlineText</li>
+    <li>Navigation</li>
+    <li>IconLink</li>
     <li>
         IconPackage
         <ul>
