@@ -31,10 +31,3 @@
 
 <h1 align="center" style="font-size: 35px;">Usage</h1>
 <p>You can copy the track you want to use directly from <strong>ui/</strong>. It is recommended not to copy intermediate packages. The main reason for this is that intermediate packages cannot be used directly for design.</p>
-
-![a0.png](./images/ui/a0.png)
-![a0.png](./images/ui/a1.png)
-![a0.png](./images/ui/a2.png)
-
-
-<h1 align="center" style="font-size: 15px;">Developed by Hacı Mert Gökhan</h1>
