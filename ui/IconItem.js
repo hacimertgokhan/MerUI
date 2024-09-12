@@ -1,7 +1,7 @@
 import React from 'react';
-const IconItem = ({icon, isLast}) => {
+const IconItem = ({icon, isLast, ...props}) => {
     return (
-        <div className={"w-fit text-white text-2xl p-1 h-fit relative  items-center justify-center flex flex-row gap-4 drop-shadow-3xl"}>
+        <div className={"w-fit text-white text-2xl p-1 h-fit relative  items-center justify-center flex flex-row gap-4 drop-shadow-3xl"} {...props}>
 
                 <>
                     <span className={"cursor-pointer text-white"}>{icon}</span>
